@@ -18,7 +18,7 @@
 	</ul>
 	</p>
 <h3>Cortex-M0</h3>
-![Image alt](https://github.com/mosvits/embedded/raw/master/img/cortex-m0.png)
+![cortex-m0](https://github.com/mosvits/embedded/raw/master/img/cortex-m0.png)
 
 <h2>Архітектура</h2>
 
